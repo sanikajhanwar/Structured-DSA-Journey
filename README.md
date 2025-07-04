@@ -1,6 +1,6 @@
 # Structured-DSA-Journey
-A structured collection of Data Structures and Algorithms problems solved by following Take U Forward (Striver's) DSA Sheet using LeetCode. Includes clean, well-commented solutions organized by topic.
-
+Tracking my DSA progress based on Take U Forward (Striver's) Sheet using LeetCode.
+This repo logs the topics and questions I’ve completed — not full solutions — and will be updated regularly as I continue.
 ---
 
 ### ⚡ Note

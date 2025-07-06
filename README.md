@@ -13,13 +13,6 @@ This repository starts tracking from **July 4, 2025**, and I will gradually uplo
 
 ---
 
-### 📁 Folder Structure
-
-- `Heaps/` 
-- More folders will be added as topics progress.
-
----
-
 ### 📅 DSA Progress Log
 
 | Day | Date       | Topic  | Problems Solved                      |

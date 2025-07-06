@@ -25,8 +25,8 @@ This repository starts tracking from **July 4, 2025**, and I will gradually uplo
 | Day | Date       | Topic  | Problems Solved                      |
 |-----|------------|--------|--------------------------------------|
 | 1   | July 4     | Heaps |Find Median from Data Stream, Merge K sorted arrays, K most frequent elements|
-| 2   | July 5     |    (To be updated)   |                |
-| 3   | July 6     |        | |
+| 2   | July 5     |    Greedy Algorithm  |  N meetings in one room, Assign Cookies|
+| 3   | July 6     |    Greedy Algorithm| Minimum number of platforms required for a railway |
 
 
 ---

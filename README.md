@@ -22,6 +22,9 @@ This repository starts tracking from **July 4, 2025**, and I will gradually uplo
 | 3   | July 6     |    Greedy Algorithm| Minimum number of platforms required for a railway, Introduction to Trees, Binary Tree Representation in C++ |
 |4|July 7|Binary trees | Inorder Traversal, Preorder Traversal, Postorder Traversal|
 |5|July 8|Binary Trees|Morris Inorder Traversal, Morris Preorder Traversal, LeftView Of Binary Tree|
+|6|July 9|Binary TreesBottom View of Binary Tree, Top View of Binary Tree|
+|7|July 10|Binary Trees|Preorder inorder postorder in a single traversal|
+|8|July 11|Binary Trees||
 
 ---
 

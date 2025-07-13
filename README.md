@@ -24,7 +24,9 @@ This repository starts tracking from **July 4, 2025**, and I will gradually uplo
 |5|July 8|Binary Trees|Morris Inorder Traversal, Morris Preorder Traversal, LeftView Of Binary Tree|
 |6|July 9|Binary Trees|Bottom View of Binary Tree, Top View of Binary Tree|
 |7|July 10|Binary Trees|Preorder inorder postorder in a single traversal|
-|8|July 11|Binary Trees||
+|8|July 11|Binary Trees|Vertical order traversal|
+|9|July 12|Binary Trees|Root to Node Path in Binary Tree, Max width of a Binary Tree|
+|10|July 13|Binary Trees|Level order Traversal / Level order traversal in spiral form,Height of a Binary Tree, Diameter of Binary Tree, Check if the Binary tree is height-balanced or not|
 
 ---
 

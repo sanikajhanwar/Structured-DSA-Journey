@@ -27,6 +27,9 @@ This repository starts tracking from **July 4, 2025**, and I will gradually uplo
 |8|July 11|Binary Trees|Vertical order traversal|
 |9|July 12|Binary Trees|Root to Node Path in Binary Tree, Max width of a Binary Tree|
 |10|July 13|Binary Trees|Level order Traversal / Level order traversal in spiral form,Height of a Binary Tree, Diameter of Binary Tree, Check if the Binary tree is height-balanced or not|
+|11|July 14|Binary Trees|LCA in Binary Tree, Check if two trees are identical or not, Zig Zag Traversal of Binary Tree|
+|12|July 15|Binary Trees|Boundary Traversal of Binary Tree, Maximum path sum|
+|13|July 16|Binary Trees|Construct Binary Tree from inorder and preorder|
 
 ---
 
